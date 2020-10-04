@@ -1,13 +1,31 @@
 <h1 align="center">Welcome to my github!</h1>
-<!-- <img height=60px src="/clockbanner.jpg">  -->
 
-[![My portfolio site](/clockbanner.jpg "Visit my portfolio!")](https://alvarian.dev)
+Feel free to use and browse my work! It consist of website applications, and a couple of API services made from scratch
 
-My work consist of websites, and a couple of API services made from scratch, feel free to use and browse
+<table>
+<tbody>
 
-Future services will be included touching on webpack(Javascript), Rocket(Rust), and ASP.NET(C#)
+<tr>
+<td align="center" width="30%"><strong>Services</strong></td>
+<td align="center" width="30%"><strong>Templates</strong></td>
+</tr>
 
-For more information please visit my [linkedin](https://www.linkedin.com/in/alvarezivan88/)
+<tr>
+<td align="center" width="30%"><a href="https://github.com/Alvarian/Epoch">Epoch</a></td>	
+<td align="center" width="30%"><a href="https://github.com/Alvarian/DEK">DEK</a></td>	
+</tr>
+
+<tr>
+<td align="center" width="30%"></td>	
+<td align="center" width="30%"><a href="https://github.com/Alvarian/portfolio2">My Portfolio</a></td>	
+</tr>
+
+</tbody>
+</table>
+
+Future services will be included touching more on webpack(Javascript), Rocket(Rust), and ASP.NET(C#)
+
+For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
 
 ## About Me
 * I am a visual artist
