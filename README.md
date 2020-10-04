@@ -1,9 +1,12 @@
 <h1 align="center">Welcome to my github!</h1>
-More information on my [website](https://alvarian.dev) and [linkedin](https://www.linkedin.com/in/alvarezivan88/)
+
+[![My portfolio site](/assets/images/philly-magic-gardens.jpg "Visit my portfolio!")](https://alvarian.dev)
 
 My work consist of websites, and a couple of API services made from scratch, feel free to use and browse
 
 Future services will be included touching on webpack(Javascript), Rocket(Rust), and ASP.NET(C#)
+
+For more information please visit my [linkedin](https://www.linkedin.com/in/alvarezivan88/)
 
 ## About Me
 * I am a visual artist
