@@ -6,8 +6,12 @@ Feel free to use and browse my work! It consist of website applications, and a c
 <tbody>
 
 <tr>
-<td align="center" width="30%"><strong>Services</strong></td>
-<td align="center" width="30%"><strong>Templates</strong></td>
+<th align="center" width="100%"><strong>Index</strong></th>
+</tr>
+
+<tr>
+<th align="center" width="30%"><strong>Services</strong></th>
+<th align="center" width="30%"><strong>Templates</strong></th>
 </tr>
 
 <tr>
