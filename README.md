@@ -31,7 +31,9 @@ For more information please visit my [linkedin!](https://www.linkedin.com/in/alv
 
 ## About Me
 :art: I am a visual artist
+
 :six_pointed_star: I really love geometry
+
 :scroll: And I want to create playwright stories
 
 ## Stack
