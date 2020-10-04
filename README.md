@@ -1,5 +1,5 @@
-<h1 align="center">Hello, welcome to my github!</h1>
-More information on my [website](alvarian.dev) and [linkedin]()
+<h1 align="center">Welcome to my github!</h1>
+More information on my [website](https://alvarian.dev) and [linkedin](https://www.linkedin.com/in/alvarezivan88/)
 
 My work consist of websites, and a couple of API services made from scratch, feel free to use and browse
 
@@ -23,6 +23,10 @@ Future services will be included touching on webpack(Javascript), Rocket(Rust), 
 </td>
 
 <td align="center" width="20%">
+<img height=65px src="https://www.php.net/images/logos/new-php-logo.svg"> 
+</td>
+
+<td align="center" width="20%">
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
 
@@ -40,6 +44,10 @@ Future services will be included touching on webpack(Javascript), Rocket(Rust), 
 </td>
 
 <td align="center" width="20%">
+<img height=65px src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png"> 
+</td>
+
+<td align="center" width="20%">
 <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
 </td>
 
@@ -53,7 +61,42 @@ Future services will be included touching on webpack(Javascript), Rocket(Rust), 
 <tr>
 
 <td align="center" width="20%">
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"> 
+<img height=65px src="https://www.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> 
+</td>
+
+</tr>
+
+</tbody>
+</table>
+
+<table>
+<tbody>
+
+<tr>
+
+<td align="center" width="20%">
+<img height=65px src="https://d2908q01vomqb2.cloudfront.net/cb4e5208b4cd87268b208e49452ed6e89a68e0b8/2018/03/21/DynamoDB-Amazon-Web-Services.jpg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://www.cloudsavvyit.com/thumbcache/0/0/5398aa629b05ec6fef5a34171383daa7/p/uploads/2019/06/55634f08.png"> 
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" width="20%">
+<img height=65px src="https://www.quest.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-39/Slide2.JPG_2D00_1100x500x2.jpg?_=637219525519183603"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://i.pinimg.com/564x/c5/fe/79/c5fe79c0aa620269cf810c7be4c9698d.jpg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://i.pinimg.com/originals/3a/51/12/3a51129274fc2cf77ec774ed11845928.jpg"> 
 </td>
 
 </tr>
