@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my github!</h1>
 
-Feel free to use and browse my work! It consist of website applications, and a couple of API services made from scratch
+Feel free to use and browse my work! It consist of website applications, and an API service(soon to be plural) made from scratch
 
 <table>
 <tbody>
