@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my github!</h1>
+<!-- <img height=60px src="/clockbanner.jpg">  -->
 
-[![My portfolio site](/img_bridge3.jpg "Visit my portfolio!")](https://alvarian.dev)
+[![My portfolio site](/clockbanner.jpg "Visit my portfolio!")](https://alvarian.dev)
 
 My work consist of websites, and a couple of API services made from scratch, feel free to use and browse
 
