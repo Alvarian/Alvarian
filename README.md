@@ -9,7 +9,7 @@ Feel free to use and browse my work! It consist of website applications, and an 
 
 <tr>
 <th align="center" width="30%"><strong>Services</strong></th>
-<th align="center" width="30%"><strong>Templates</strong></th>
+<th align="center" width="30%"><strong>Apps</strong></th>
 </tr>
 
 <tr>
