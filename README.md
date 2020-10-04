@@ -27,7 +27,9 @@ Feel free to use and browse my work! It consist of website applications, and an 
 
 Future services will be included touching more on webpack(Javascript), Rocket(Rust), and ASP.NET(C#)
 
-For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
+### For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
+
+### Learn data structures and algorithms with me at my [LeetCode profile!](https://leetcode.com/alvarian/)
 
 ## About Me
 :art: I am a visual artist
