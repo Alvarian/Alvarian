@@ -34,7 +34,7 @@ For more information please visit my [linkedin!](https://www.linkedin.com/in/alv
 
 :six_pointed_star: I really love geometry
 
-:scroll: And I want to create playwright stories
+:scroll: Interested in creating playwright stories
 
 ## Stack
 
