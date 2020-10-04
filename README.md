@@ -18,7 +18,7 @@ Feel free to use and browse my work! It consist of website applications, and a c
 </tr>
 
 <tr>
-<td align="center" width="30%"></td>	
+<td align="center" width="30%"></td>
 <td align="center" width="30%"><a href="https://github.com/Alvarian/portfolio2">My Portfolio</a></td>	
 </tr>
 
@@ -30,9 +30,9 @@ Future services will be included touching more on webpack(Javascript), Rocket(Ru
 For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
 
 ## About Me
-* I am a visual artist
-* I really love geometry
-* And I aspire to create play write scripts
+:art: I am a visual artist
+:six_pointed_star: I really love geometry
+:scroll: And I want to create playwright stories
 
 ## Stack
 
