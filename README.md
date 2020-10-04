@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my github!</h1>
 
-[![My portfolio site](/assets/images/philly-magic-gardens.jpg "Visit my portfolio!")](https://alvarian.dev)
+[![My portfolio site](/img_bridge3.jpg "Visit my portfolio!")](https://alvarian.dev)
 
 My work consist of websites, and a couple of API services made from scratch, feel free to use and browse
 
