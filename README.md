@@ -5,9 +5,7 @@ Feel free to use and browse my work! It consist of website applications, and a c
 <table>
 <tbody>
 
-<tr>
-<th align="center" width="100%"><strong>Index</strong></th>
-</tr>
+<h3>INDEX</h3>
 
 <tr>
 <th align="center" width="30%"><strong>Services</strong></th>
