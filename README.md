@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my github!</h1>
 
-Feel free to use and browse my work! It consist of website applications, and an API service(soon to be plural) made from scratch
+Feel free to use and browse my work! It consist of website applications, and API services.
 
 <table>
 <tbody>
@@ -9,7 +9,7 @@ Feel free to use and browse my work! It consist of website applications, and an 
 
 <tr>
 <th align="center" width="30%"><strong>Services</strong></th>
-<th align="center" width="30%"><strong>Apps</strong></th>
+<th align="center" width="30%"><strong>Web Apps</strong></th>
 </tr>
 
 <tr>
@@ -18,7 +18,7 @@ Feel free to use and browse my work! It consist of website applications, and an 
 </tr>
 
 <tr>
-<td align="center" width="30%"></td>
+<td align="center" width="30%"><a href="https://github.com/Alvarian/Google-Apps-Script-API">Google Apps Script API</a></td>	
 <td align="center" width="30%"><a href="https://github.com/Alvarian/portfolio2">My Portfolio</a></td>	
 </tr>
 
