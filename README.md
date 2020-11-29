@@ -29,14 +29,12 @@ Future services will be included touching more on webpack(Javascript), Rocket(Ru
 
 ### For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
 
-### Learn data structures and algorithms with me at my [LeetCode profile!](https://leetcode.com/alvarian/)
+### Review data structures and algorithms with me at my [LeetCode profile!](https://leetcode.com/alvarian/)
 
 ## About Me
 :art: I am a visual artist
 
-:six_pointed_star: I really love geometry
-
-:scroll: Interested in creating playwright stories
+:scroll: Would like to publish playwright stories one day
 
 ## Stack
 
