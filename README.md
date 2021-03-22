@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my github!</h1>
 
-Polyglot programmer, love to learn, big projects ahead
+Polyglot programmer, love to learn new things, big projects ahead
 
 Future technologies will be included touching more on webpack(Javascript), Rocket(Rust), and web assembly
 
