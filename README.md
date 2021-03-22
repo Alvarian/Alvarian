@@ -1,13 +1,17 @@
 <h1 align="center">Welcome to my github!</h1>
 
+
 Polyglot programmer, love to learn new things, big projects ahead
 
 Future technologies will be included touching more on webpack(Javascript), Rocket(Rust), and web assembly
 
-For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
+### For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
+
+### Review data structures and algorithms with me at my [LeetCode profile!](https://leetcode.com/alvarian/)
 
 ## About Me
 :art: I am a visual artist
+
 :robot: I really love robotics, will hobbyfy embedded systems in the near future
 
 ## Stack
