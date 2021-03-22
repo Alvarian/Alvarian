@@ -7,7 +7,7 @@ Future technologies will be included touching more on webpack(Javascript), Rocke
 
 ### For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
 
-### Review data structures and algorithms with me at my [LeetCode profile!](https://leetcode.com/alvarian/)
+### Review data structures and algorithms with me at my [codewars profile!](https://www.codewars.com/users/Alvarian_)
 
 ## About Me
 :art: I am a visual artist
