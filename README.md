@@ -1,38 +1,14 @@
 <h1 align="center">Welcome to my github!</h1>
 
-Feel free to use and browse my work! It consist of website applications, and a couple of API services made from scratch
+Polyglot programmer, love to learn, big projects ahead
 
-<table>
-<tbody>
-
-<h3>INDEX</h3>
-
-<tr>
-<th align="center" width="30%"><strong>Services</strong></th>
-<th align="center" width="30%"><strong>Templates</strong></th>
-</tr>
-
-<tr>
-<td align="center" width="30%"><a href="https://github.com/Alvarian/Epoch">Epoch</a></td>	
-<td align="center" width="30%"><a href="https://github.com/Alvarian/DEK">DEK</a></td>	
-</tr>
-
-<tr>
-<td align="center" width="30%"></td>
-<td align="center" width="30%"><a href="https://github.com/Alvarian/portfolio2">My Portfolio</a></td>	
-</tr>
-
-</tbody>
-</table>
-
-Future services will be included touching more on webpack(Javascript), Rocket(Rust), and ASP.NET(C#)
+Future technologies will be included touching more on webpack(Javascript), Rocket(Rust), and web assembly
 
 For more information please visit my [linkedin!](https://www.linkedin.com/in/alvarezivan88/)
 
 ## About Me
 :art: I am a visual artist
-:six_pointed_star: I really love geometry
-:scroll: And I want to create playwright stories
+:robot: I really love robotics, will hobbyfy embedded systems in the near future
 
 ## Stack
 
@@ -68,11 +44,7 @@ For more information please visit my [linkedin!](https://www.linkedin.com/in/alv
 </td>
 
 <td align="center" width="20%">
-<img height=65px src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png"> 
-</td>
-
-<td align="center" width="20%">
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Horn_flask_%28PSF%29.png"> 
 </td>
 
 <td align="center" width="20%"> 
