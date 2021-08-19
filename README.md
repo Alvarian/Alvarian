@@ -9,10 +9,6 @@ Future technologies will be included touching more on webpack(Javascript), Rocke
 
 ### Review data structures and algorithms with me at my [codewars profile!](https://www.codewars.com/users/Alvarian_)
 
-## About Me
-:art: I am a visual artist
-
-:robot: I really love robotics, will hobbyfy embedded systems in the near future
 
 ## Stack
 
