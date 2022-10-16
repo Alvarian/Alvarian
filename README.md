@@ -29,7 +29,7 @@ The key required for decryption must be the same key used to encrypt and is serv
 
 The README of that repository is scrapped by my portfolio and splits the text using :octocat:
 
-Using [Rivalry's readme]() as an example, the last item is chosen for both my project icon and encryption:
+Using [Rivalry's readme](https://raw.githubusercontent.com/Alvarian/rivalry/master/README.md) as an example, the last item is chosen for both my project icon and encryption:
 
 ```bash
 <!-- https://dvj70ijwahy8c.cloudfront.net/Rivalry/icon | https://dvj70ijwahy8c.cloudfront.net/Rivalry/core -->
