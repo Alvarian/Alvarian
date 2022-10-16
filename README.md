@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-around; align-items: center; background-image: url(./assets/img_bridge3.jpg); background-repeat: no-repeat; background-size: 100%; min-width: 540px">
-    <img src="./assets/trifecta.png" />
-    <a style="font-size: 36pt;" href="https://alvarian.dev/">alvarian.dev</a>
-</div>
+[![](./assets/bridgebanner.png)](https://alvarian.dev/)
 
 ---
 
