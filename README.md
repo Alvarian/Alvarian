@@ -8,11 +8,9 @@
 
 # About
 
-I am an indie programmer from New York. Passionate discovering new ideas, and applying them. Big projects ahead. 
+As a junior developer and polyglot enthusiast, I have a passion for solving problems and creating innovative solutions using a variety of programming languages, including JavaScript, Python, Bash, and SQL. I am always eager to learn new technologies and expand my skill set. Check out my GitHub repositories to see some of my projects and to follow my journey as a developer.
 
-🦄 to be.
-
-Future technologies will be included touching more on native deployments and web assembly.
+Future technologies will be included touching more on native deployments and web assembly with a focus on automation.
 
 ## Overview
 
